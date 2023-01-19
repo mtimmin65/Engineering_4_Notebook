@@ -103,7 +103,7 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 Your readme will have various images and gifs on it. Upload a test image and test gif to make sure you've got the process figured out. Pick whatever image and gif you want!
 
 ### Test Link
-[Hyperlink text](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[click here for fun supriz3 :) ](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 ### Test Image
  ![Picture Name Here](images/Capture.PNG)
 ### Test GIF
