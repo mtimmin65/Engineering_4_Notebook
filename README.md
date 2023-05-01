@@ -17,9 +17,9 @@ FEA_Part3
 ## Launch_Pad_Part_1
 
 ### Assignment Description
-make code that counts down from ten to zero.
+make code that counts down from ten to zero and prints liftoff.
 
-### Evidence 
+### Evidence
 
  ![Picture Name Here](images/maxcountdown1.gif)
 
