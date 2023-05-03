@@ -49,7 +49,7 @@ make a red light blink for 10 second with a countdown and then print liftoff and
 ### Wiring
 
  ![Picture Name Here](images/maxwiring1.jpg)
-![Picture Name Here](images/maxcountdown2.gif)
+
 ### Code
 ``` python
 import time 
@@ -92,10 +92,36 @@ press a button that starts what we did in the previouse assignment.
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+``` python
+import time 
+import board
+import digitalio
+
+GreenLed = digitalio.DigitalInOut(board.GP13)  
+GreenLed.direction = digitalio.Direction.OUTPUT
+RedLed = digitalio.DigitalInOut(board.GP18)
+RedLed.direction = digitalio.Direction.OUTPUT
+button = digitalio.DigitalInOut(board.GP16) 
+button.direction = digitalio.Direction.INPUT # Leds are output, Button is an Input
+button.pull = digitalio.Pull.UP 
+
+while True: 
+     if button.value == False: # Button initializes code
+          for x in range (10,0,-1):  
+    GreenLed.value = True #Turns led on intially
+    time.sleep(0.5) # sleep half second
+    print(x) # continues  countdown
+    led1.value = False #turns led off
+    time.sleep(0.5) # sleep other half second
+     while True:
+         print("Takeoff!") 
+         RedLed.value = True #Red Led turns on at end of countdown
+         time.sleep(0.5) # Led turns off
+``` 
 
 ### Reflection
 
+I had difficulty with the direction of the button but i turn it and it worked.
 
 ## Launch_Pad_Part_4
 
