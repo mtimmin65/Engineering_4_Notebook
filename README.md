@@ -138,12 +138,32 @@ now we have the countdown with leds and a start button we add
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+``` python
+
+servo.angle = 0
+
+     if button.value == False: # Button initializes code
+     for x in range (10,0,-1):  
+     GreenLed.value = True #Turns led on intially
+     time.sleep(0.5) # sleep half second
+     print(x) # continues  countdown
+     led1.value = False #turns led off
+     time.sleep(0.5) # sleep other half second
+     while True:
+     print("Takeoff!") 
+     RedLed.value = True #Red Led turns on at end of countdown
+     time.sleep(0.5) # Led turns off
+     while True:
+          print("liftoff!")     #say liftoff
+          led2.value = True
+          servo.angle = 180  #Turn Servo from 0 degrees to 180
+          time.sleep(0.5)
+
+``` 
 
 ### Reflection
 
 
-&nbsp;
 
 ## Media Test
 
