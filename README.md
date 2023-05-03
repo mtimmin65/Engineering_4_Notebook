@@ -127,11 +127,11 @@ I had difficulty with the direction of the button but i turn it and it worked.
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+now we have the countdown with leds and a start button we add 
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+![Picture Name Here](images/maxcountdown4.gif)
 
 ### Wiring
 
