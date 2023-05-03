@@ -92,7 +92,7 @@ press a button that starts what we did in the previouse assignment.
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+![Picture Name Here](images/maxwiring2.jpg)
 
 ### Code
 ``` python
