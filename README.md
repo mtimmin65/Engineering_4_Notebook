@@ -305,7 +305,7 @@ while True:
 
 ### Assignment discription
 
-### Evidnce
+### Evidence
 ![Picture Name Here](images/maxlanding1.gif)
 ### wiring 
 
@@ -318,7 +318,7 @@ while True:
 
 ### Assignment discription
 
-### Evidnce
+### Evidence
 ![Picture Name Here](images/maxlanding2.gif)
 ### wiring 
 
