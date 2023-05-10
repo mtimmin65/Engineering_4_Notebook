@@ -209,6 +209,30 @@ servo.angle = 0
 ### Reflection
 
 
+## Landing_area_1
+
+### Assignment discription
+
+### Evidnce
+![Picture Name Here](images/maxlanding1.gif)
+### wiring 
+
+### Code 
+
+### Reflection
+
+
+## Landing_area_2
+
+### Assignment discription
+
+### Evidnce
+![Picture Name Here](images/maxlanding2.gif)
+### wiring 
+
+### Code 
+
+### Reflection
 ## FEA_part1
 
 ### Assignment discription
