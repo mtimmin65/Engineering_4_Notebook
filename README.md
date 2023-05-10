@@ -17,9 +17,9 @@
 * [FEA_part1](#FEA_part1)
 * [FEA_part2](#FEA_part2)
 * [FEA_part3](#FEA_part3)
-* [4.1](#4.1)
-* [4.2](#4.2)
-* [4.3](#4.3)
+* [4.1_full_assembly](#4.1_ring_and_spinner)
+* [4.2_full_assembly](#4.2_key_and_prop)
+* [4.3_full_assembly](#4.3_full_assembly)
 &nbsp;
 
 ## Launch_Pad_Part_1
@@ -204,7 +204,7 @@ servo.angle = 0
 
 ### Reflection
 
-## 4.1
+## 4.1_ring_and_spinner
 
 ### Assignment discription
 
@@ -213,7 +213,7 @@ servo.angle = 0
 
 ### Reflection
 
-## 4.2
+## 4.2_key_and_prop
 
 ### Assignment discription
 
@@ -222,7 +222,7 @@ servo.angle = 0
 
 ### Reflection
 
-## 4.3
+## 4.3_full_assembly
 
 ### Assignment discription
 
