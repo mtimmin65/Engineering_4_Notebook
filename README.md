@@ -177,7 +177,7 @@ servo.angle = 0
 ### Assignment discription
 
 ### Evidence
-![Picture Name Here](images/maxfea1.jpg)
+![Picture Name Here](images/maxfea1.png)
 ### Wiring
 
 ### Code
@@ -190,7 +190,7 @@ servo.angle = 0
 ### Assignment discription
 
 ### Evidence
-![Picture Name Here](images/maxfea2.jpg)
+![Picture Name Here](images/maxfea2.png)
 ### Wiring
 
 ### Code
@@ -203,7 +203,7 @@ servo.angle = 0
 ### Assignment discription
 
 ### Evidence
-![Picture Name Here](images/maxfea3.jpg)
+![Picture Name Here](images/maxfea3.png)
 ### Wiring
 
 ### Code
