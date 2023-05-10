@@ -15,6 +15,8 @@
 * [Morse Code 2](#Morse_Code_2)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
 * [FEA_part1](#FEA_part1)
+* [FEA_part2](#FEA_part2)
+* [FEA_part3](#FEA_part3)
 &nbsp;
 
 ## Launch_Pad_Part_1
@@ -172,9 +174,41 @@ servo.angle = 0
 
 ## FEA_part1
 
+### Assignment discription
+
+### Evidence
+![Picture Name Here](images/maxfea1.jpg)
+### Wiring
+
+### Code
+
+### Reflection
 
 
+## FEA_part2
 
+### Assignment discription
+
+### Evidence
+![Picture Name Here](images/maxfea2.jpg)
+### Wiring
+
+### Code
+
+### Reflection
+
+
+## FEA_part3
+
+### Assignment discription
+
+### Evidence
+![Picture Name Here](images/maxfea3.jpg)
+### Wiring
+
+### Code
+
+### Reflection
 
 
 ## Media Test
