@@ -14,7 +14,7 @@
 * [Morse Code 1](#Morse_Code_1)
 * [Morse Code 2](#Morse_Code_2)
 * [Onshape_Assignment_Template](#Onshape_Assignment_Template)
-
+* [FEA_part1](#FEA_part1)
 &nbsp;
 
 ## Launch_Pad_Part_1
@@ -168,6 +168,13 @@ servo.angle = 0
 
 
 ## Crash_avoidance_1
+
+
+## FEA_part1
+
+
+
+
 
 
 ## Media Test
