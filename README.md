@@ -177,10 +177,7 @@ servo.angle = 0
 ### Assignment discription
 
 ### Evidence
-![Picture Name Here](images/maxfea1.png)
-### Wiring
-
-### Code
+![Picture Name Here](images/maxfea1.PNG)
 
 ### Reflection
 
@@ -191,9 +188,6 @@ servo.angle = 0
 
 ### Evidence
 ![Picture Name Here](images/maxfea2.png)
-### Wiring
-
-### Code
 
 ### Reflection
 
@@ -204,9 +198,33 @@ servo.angle = 0
 
 ### Evidence
 ![Picture Name Here](images/maxfea3.png)
-### Wiring
 
-### Code
+### Reflection
+
+## 4.1
+
+### Assignment discription
+
+### Evidence
+![Picture Name Here](images/max4.1.PNG)
+
+### Reflection
+
+## 4.2
+
+### Assignment discription
+
+### Evidence
+![Picture Name Here](images/max4.2.PNG)
+
+### Reflection
+
+## 4.3
+
+### Assignment discription
+
+### Evidence
+![Picture Name Here](images/max4.3.PNG)
 
 ### Reflection
 
