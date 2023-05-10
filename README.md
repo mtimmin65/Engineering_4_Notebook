@@ -19,7 +19,7 @@
 * [FEA_part3](#FEA_part3)
 * [ring_and_spinner](#ring_and_spinner)
 * [key_and_prop](#key_and_prop)
-* [4.3_full_assembly](#full_assembly)
+* [full_assembly](#full_assembly)
 &nbsp;
 
 ## Launch_Pad_Part_1
