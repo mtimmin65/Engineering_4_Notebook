@@ -267,7 +267,7 @@ led_red.direction = digitalio.Direction.OUTPUT
 
 mpu = adafruit_mpu6050.MPU6050(i2c, address=0x68) #accelerometer
 
-
+ 
 while True:
     print(mpu.acceleration)   #say the values
     time.sleep(.5)
