@@ -39,7 +39,7 @@ for x in range (10,0,-1):  #Range from 10,0 count down -1 each second
     time.sleep (1)  # Second between each number
 print("Takeoff!")   # print this at 0
 ``` 
-
+code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 
 pretty simple assignment and I used some online reasources (google) to learn how to countdown.
@@ -80,7 +80,7 @@ while True:
     RedLed.value = True #Red Led turns on at end of countdown
     time.sleep(0.5) # Led turns off
  ``` 
-
+code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 
 a good review on using leds. pretty cool easy assignment.
@@ -126,7 +126,7 @@ while True:
          RedLed.value = True #Red Led turns on at end of countdown
          time.sleep(0.5) # Led turns off
 ``` 
-
+code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 
 I had difficulty with the direction of the button but i turn it and it worked.
@@ -168,7 +168,7 @@ servo.angle = 0
           time.sleep(0.5)
 
 ``` 
-
+code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 I had to look up code to move a servo 180 dgrees and the added that into my previous code.
 
@@ -199,6 +199,7 @@ while True:
     print(mpu.acceleration)   # print x y and z values
     time.sleep(.5)
 ``` 
+code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 pretty easy assignment i had to learn how to use an accelerometer though which was cool i used google and found some online reasoureses.
 ## Crash_avoidance_2
@@ -233,6 +234,7 @@ while True:
     else:
         led.value = False  #if its not then the led is off
   ``` 
+  code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 adding the led was similar to the other assignment make it turn on when a value happens.
 ## Crash_avoidance_3
@@ -297,6 +299,7 @@ while True:
     else:
         led_red.value = False  #if not led is off
   ```
+  code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 it was cool using a display for the first time and getting it to do what i wanted.
 
@@ -346,7 +349,7 @@ while True:
     else:
         print(area(x1,y1,x2,y2,x3,y3)) # print asnwer to formula   
 ``` 
-
+code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 this assignment was difficult i used online reasourses and mr miller to complete it.
 
@@ -412,6 +415,7 @@ while True:
         print(area(x1,y1,x2,y2,x3,y3))   # print asnwer to formula (area)
      
  ```
+ code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook)
 ### Reflection
 This project was super cool when i finished it i struggled on the end part of the code but i used my reasources to help.
 
