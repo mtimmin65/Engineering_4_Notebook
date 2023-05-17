@@ -41,8 +41,7 @@ print("Takeoff!")   # print this at 0
 ``` 
 code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook#Countdown_1)
 ### Reflection
-
-pretty simple assignment and I used some online reasources (google) to learn how to countdown.
+I had to learn different functions in circuit pythons that i hadn't used before. first i found how to count up to ten then i reversed it and it worked.
 
 ## Launch_Pad_Part_2
 
@@ -83,13 +82,13 @@ while True:
 code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook#Countdown_2)
 ### Reflection
 
-a good review on using leds. pretty cool easy assignment.
+The First green Led i used didn't work so that was confusing for a moment Because it was working other than the liftoff. then i replaced it and it worked.
 
 ## Launch_Pad_Part_3
 
 ### Assignment Description
 
-press a button that starts what we did in the previouse assignment.
+Add a button that starts what we did in the previouse assignment.
 
 ### Evidence 
 
@@ -129,7 +128,7 @@ while True:
 code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook#Countdown_3)
 ### Reflection
 
-I had difficulty with the direction of the button but i turn it and it worked.
+I had difficulty with the direction of the button but i turn it and it worked. I used google to find a good diagram of the button and how it needs to connect to the pico.
 
 ## Launch_Pad_Part_4
 
@@ -170,7 +169,7 @@ servo.angle = 0
 ``` 
 code-[CallanSmith](https://github.com/CallanSmith/Engineering_4_Notebook#Countdown_4)
 ### Reflection
-I had to look up code to move a servo 180 dgrees and the added that into my previous code.
+I hadn't work with servos in a little while so this was a good refresher. I had to look up code to move a servo 180 dgrees and the added that into my previous code.
 
 ## Crash_avoidance_1
 
