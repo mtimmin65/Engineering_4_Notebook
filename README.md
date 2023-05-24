@@ -25,7 +25,7 @@
 ## Launch_Pad_Part_1
 
 ### Assignment Description
-make code that counts down from ten to zero and prints liftoff.
+write code that counts down from ten to zero and prints liftoff on the serial monitor.
 
 ### Evidence
 
